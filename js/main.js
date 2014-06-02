@@ -5,7 +5,7 @@ var newItemHtml = Robin.render(itemTemplate, {name: 'Dewberry', price: 0.15});
 $('#store').append(newItemHtml);
 
 var items=[
-{name: 'Apple', price: 0.90},
+{name: 'Orange', price: 0.90},
 {name: 'Carrots', price: 1},
 {name: 'Pear', price: 0.95}
 ];
